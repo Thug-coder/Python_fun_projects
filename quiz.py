@@ -1,3 +1,6 @@
+
+#simple quiz game
+
 print("Welcome to Quiz game")
 
 name = input('What is your Name? \n')
